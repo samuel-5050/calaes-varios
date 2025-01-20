@@ -1,0 +1,7 @@
+ttps://m3u.cl/lista/CO.m3u
+https://m3u.cl/lista/MX.m3u
+https://m3u.cl/lista/PE.m3u
+https://m3u.cl/lista/CL.m3u
+https://m3u.cl/lista/BO.m3u
+https://m3u.cl/lista/AR.m3u
+
